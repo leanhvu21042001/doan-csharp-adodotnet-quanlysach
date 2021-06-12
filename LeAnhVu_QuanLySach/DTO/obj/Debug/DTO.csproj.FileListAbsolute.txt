@@ -1,0 +1,10 @@
+D:\LeAnhVu_QuanLySach\DTO\bin\Debug\DTO.dll
+D:\LeAnhVu_QuanLySach\DTO\bin\Debug\DTO.pdb
+D:\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.dll
+D:\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.pdb
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DTO\bin\Debug\DTO.dll
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DTO\bin\Debug\DTO.pdb
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.dll
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DTO\obj\Debug\DTO.pdb

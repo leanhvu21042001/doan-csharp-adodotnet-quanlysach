@@ -1,0 +1,16 @@
+D:\LeAnhVu_QuanLySach\DAL\bin\Debug\DAL.dll
+D:\LeAnhVu_QuanLySach\DAL\bin\Debug\DAL.pdb
+D:\LeAnhVu_QuanLySach\DAL\bin\Debug\DTO.dll
+D:\LeAnhVu_QuanLySach\DAL\bin\Debug\DTO.pdb
+D:\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.dll
+D:\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.pdb
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\bin\Debug\DAL.dll
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\bin\Debug\DAL.pdb
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\bin\Debug\DTO.dll
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\bin\Debug\DTO.pdb
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.dll
+F:\Nam2HocKy1\LTUD_C3\LeAnhVu_19211tt2235\LeAnhVu_QuanLySach\DAL\obj\Debug\DAL.pdb
